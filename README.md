@@ -23,7 +23,7 @@ Library includes full description.
 
 
 Example how to use:
-```
+```c++
   #include <iostream>
   #include <iomanip>
   #include "Hashing_Library.h"
