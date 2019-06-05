@@ -26,7 +26,7 @@ Example how to use:
 ```
   #include <iostream>
   #include <iomanip>
-  #include "hashing.h"
+  #include "Hashing_Library.h"
 
   using namespace std;
 
