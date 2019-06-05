@@ -1,28 +1,21 @@
 # Hashing_Lib
 Hashing library written in C++ providing eight hashing functions from SHA and MD family:
 
--> std::string SHA0( std::string to_hash );
+* std::string SHA0( std::string to_hash );
+* std::string SHA1( std::string to_hash );
+* std::string SHA224( std::string to_hash );
+* std::string SHA256( std::string to_hash );
+* std::string SHA384( std::string to_hash );
+* std::string SHA512( std::string to_hash );
+* std::string MD5( std::string to_hash );
+* std::string MD4( std::string to_hash );
 
--> std::string SHA1( std::string to_hash );
-
--> std::string SHA224( std::string to_hash );
-
--> std::string SHA256( std::string to_hash );
-
--> std::string SHA384( std::string to_hash );
-
--> std::string SHA512( std::string to_hash );
-
--> std::string MD5( std::string to_hash );
-
--> std::string MD4( std::string to_hash );
-
-namespace used -> "hash_lib"
+namespace used -> "**hash_lib**"
 
 Library includes full description.
 
 
-Example how to use:
+# Usage:
 ```c++
   #include <iostream>
   #include <iomanip>
