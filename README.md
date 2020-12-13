@@ -1,6 +1,6 @@
 ![alt text](https://github.com/matthew01lokiet/Hashing-library/blob/master/hash_header.png?raw=true "Header")
 ## 📖 Short description:
-Hashing library written in C++ providing eight hashing functions from SHA and MD family.
+Hashing library written in `C++` providing eight hashing functions from `SHA` and `MD` family.
 ## 👀 Library overview:
 ![alt text](https://github.com/matthew01lokiet/Hashing-library/blob/master/func_head.png?raw=true "Header")
 
