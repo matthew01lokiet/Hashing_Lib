@@ -27,7 +27,7 @@ Hashing library written in `C++` providing eight hashing functions from `SHA` an
 		  string test_SHA256 = hash_lib::SHA256(test);
 		  string test_SHA384 = hash_lib::SHA384(test);
 		  string test_SHA512 = hash_lib::SHA512(test);
-		  string test_MD5 	 = hash_lib::MD5(test);
+		  string test_MD5    = hash_lib::MD5(test);
 		  string test_MD4    = hash_lib::MD4(test);
 		
 		  cout<<endl<<endl;
