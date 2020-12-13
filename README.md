@@ -14,21 +14,21 @@ Hashing library written in C++ providing eight hashing functions from SHA and MD
 
   int main()
   {
-	  string test = "jeasigjeigjiejgirhkios
-	  		 ekseopgkesigesirhjerdi
-			 ghjrihjserihjesrighjsi
-			 hgjesrighsjehojsejgiej
-			 iogjsiojgei";
+	  string test = "jeasigjeigjiejgirhkios"
+	  		 "ekseopgkesigesirhjerdi"
+			 "ghjrihjserihjesrighjsi"
+			 "hgjesrighsjehojsejgiej"
+			 "iogjsiojgei";
   	try
 	  {	
-		  std::string test_SHA0   = hash_lib::SHA0(test);
-		  std::string test_SHA1   = hash_lib::SHA1(test);
-		  std::string test_SHA224 = hash_lib::SHA224(test);
-		  std::string test_SHA256 = hash_lib::SHA256(test);
-		  std::string test_SHA384 = hash_lib::SHA384(test);
-		  std::string test_SHA512 = hash_lib::SHA512(test);
-		  std::string test_MD5 	  = hash_lib::MD5(test);
-		  std::string test_MD4    = hash_lib::MD4(test);
+		  string test_SHA0   = hash_lib::SHA0(test);
+		  string test_SHA1   = hash_lib::SHA1(test);
+		  string test_SHA224 = hash_lib::SHA224(test);
+		  string test_SHA256 = hash_lib::SHA256(test);
+		  string test_SHA384 = hash_lib::SHA384(test);
+		  string test_SHA512 = hash_lib::SHA512(test);
+		  string test_MD5 	 = hash_lib::MD5(test);
+		  string test_MD4    = hash_lib::MD4(test);
 		
 		  cout<<endl<<endl;
 		  
