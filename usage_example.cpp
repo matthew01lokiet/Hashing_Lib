@@ -1,6 +1,6 @@
   #include <iostream>
   #include <iomanip>
-  #include "Hashing_Library.h"
+  #include "hashing_library.h"
 
   using namespace std;
 
