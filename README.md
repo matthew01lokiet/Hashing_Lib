@@ -1,21 +1,21 @@
-![alt text](https://github.com/matthew01lokiet/Hashing-library/blob/master/hash_header.png?raw=true "Header")
+![alt text](https://github.com/matthew01lokiet/Hashing-library/blob/master/readme_images/hash_header.png?raw=true "Header")
 ## 📖 Short description:
 Hashing library written in `C++` providing eight hashing functions from `SHA` and `MD` family.
 ## 👀 Library overview:
-![alt text](https://github.com/matthew01lokiet/Hashing-library/blob/master/func_head.png?raw=true "Header")
+![alt text](https://github.com/matthew01lokiet/Hashing-library/blob/master/readme_images/func_head.png?raw=true "Header")
 
 ## Usage example:
 ```c++
   #include <iostream>
   #include <iomanip>
-  #include "hashing_library.h"
+  #include "hashing.h"
 
   using namespace std;
 
   int main()
   {
 	  string test = "ala";
-	  
+
   	try
 	  {
 		  string test_SHA0   = hash_lib::SHA0(test);
