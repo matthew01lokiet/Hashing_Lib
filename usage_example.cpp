@@ -1,13 +1,13 @@
   #include <iostream>
   #include <iomanip>
-  #include "hashing_library.h"
+  #include "hashing.h"
 
   using namespace std;
 
   int main()
   {
 	  string test = "ala";
-	  
+
   	try
 	  {
 		  string test_SHA0   = hash_lib::SHA0(test);
