@@ -2,7 +2,7 @@
 ## 📖 Short description:
 Hashing library written in `C++` providing eight hashing functions from `SHA` and `MD` family.
 ## 👀 Library overview:
-![alt text](https://images2.imgbox.com/c3/e9/LLVtlvqy_o.png?raw=true "Header")
+![alt text](https://images2.imgbox.com/c3/e9/LLVtlvqy_o.png? "Header")
 
 ## Usage example:
 ```c++
