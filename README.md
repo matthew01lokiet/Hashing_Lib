@@ -1,8 +1,8 @@
-![alt text](https://images2.imgbox.com/06/61/Bs79zQ6C_o.png?raw=true "Header")
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/MainRepos/Bs79zQ6C_o.png? "Header")
 ## 📖 Short description:
 Hashing library written in `C++` providing eight hashing functions from `SHA` and `MD` family.
 ## 👀 Library overview:
-![alt text](https://images2.imgbox.com/c3/e9/LLVtlvqy_o.png? "Header")
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/MainRepos/LLVtlvqy_o.png? "Header")
 
 ## Usage example:
 ```c++
